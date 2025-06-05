@@ -1,0 +1,9 @@
+.commentsList {
+	display: flex;
+	flex-direction: column;
+	row-gap: 9px;
+}
+
+.placeholder {
+	padding-block: 9px;
+}

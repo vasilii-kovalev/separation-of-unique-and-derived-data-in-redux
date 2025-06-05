@@ -1,0 +1,6 @@
+.form {
+	align-items: flex-start;
+	display: flex;
+	flex-direction: column;
+	row-gap: 18px;
+}
