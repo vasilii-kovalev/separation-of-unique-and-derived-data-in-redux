@@ -3,6 +3,7 @@
 		"clinyong.vscode-css-modules",
 		"EditorConfig.EditorConfig",
 		"dbaeumer.vscode-eslint",
-		"DavidAnson.vscode-markdownlint"
+		"DavidAnson.vscode-markdownlint",
+		"esbenp.prettier-vscode"
 	]
 }
